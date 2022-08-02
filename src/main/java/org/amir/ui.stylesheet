@@ -1,0 +1,6 @@
+
+node.T { shape:triangle; size: 40px; fill-color: Gold; text-size: 20px;  }
+node.S {shape: box; size: 38px; fill-color: DeepSkyBlue; text-size: 20px;}
+node.P { shape:box; size: 42px; fill-mode: image-scaled; text-size: 20px; fill-image: url('src/main/java/org/amir/pentagon.png'); }
+node.H { shape:box; size: 55px; fill-mode: image-scaled; text-size: 20px; fill-image: url('src/main/java/org/amir/hexagon.png');  }
+node.C {shape: circle; size: 40px; fill-color: pink; text-size: 20px;}
